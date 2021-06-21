@@ -15,4 +15,6 @@ Requerimientos fase 2
 4. Como Usuario de la aplicacion, quiero ver un recordatorio para pagos de tarjeta (el 23 de cada mes).
 5. Como Usuario de la aplicacion, quiero ver un recordatorio para pagos de servicios (el 14 de cada mes).
 
-NOTA: este entregable contiene solo la fase 1 del proyecto que cumple con los requisitos del presente curso.
+NOTA:
+Este entregable contiene solo la fase 1 del proyecto que cumple con los requisitos del presente curso.
+El diagrama de clases (entidades de dominio) se encuentra como parte del commit en el siguiente link: https://app.diagrams.net/#Hcalpizar%2FProyecto%2Fmain%2FUntitled%20Diagram.html
